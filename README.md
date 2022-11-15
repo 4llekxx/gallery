@@ -1,2 +1,2 @@
 # Slider implemented only with CSS & JavaScript
-##fff
+## [Сheck here](https://4llekxx.github.io/slider/)
